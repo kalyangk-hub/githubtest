@@ -11,3 +11,4 @@ namespace GitTestConsole
     }
 }
 //don't change anything
+//but I don't care - VS
