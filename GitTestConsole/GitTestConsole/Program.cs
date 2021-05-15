@@ -11,4 +11,4 @@ namespace GitTestConsole
     }
 }
 //don't change anything
-//but I don't care - VS
+//I'm changing now -- GIT
